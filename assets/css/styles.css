@@ -1,0 +1,25 @@
+#nav {
+  text-align: center;
+}
+
+nav>ul>li {
+  display: inline;
+}
+
+#container {
+  text-align: center;
+}
+
+#img-div {
+  background-color: red;
+}
+
+p {
+  text-align: justify;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
